@@ -13,12 +13,12 @@ async function init(){
             {
                 partition: 0,
                 key: "match-updates",
-                value: "CSK vs MI"
+                value: "MI vs CSK"
             },
             {
                 partition: 1,
                 key: "match-updates",
-                value: "SRH vs RCB"
+                value: "RCB vs SRH"
             }
         ]
     });
